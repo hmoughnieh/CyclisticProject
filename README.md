@@ -1,5 +1,4 @@
 # CyclisticProject
-Cyclistic Ride Sharing repository
 This is the capstone project of the Google Data Analytics certificate. The work reflects what I've learned in the program and my ability to clean, analyze, and visualize data.
 
 - Detailed documentation of SQL code is available in GitHub.
